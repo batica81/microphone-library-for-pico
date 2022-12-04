@@ -1,3 +1,19 @@
+# ######################
+# FORK CHANGES
+
+An example for using analogue microphone over USB is added.
+
+So far only 16khz works.
+
+It is important to use some kind of active microphone, as just connecting to a simple microphone will not work.
+
+There is a lot of noise, probably due to USB connection.
+
+This is just a proof of concept, and possibly a basis for further research and experimenting.
+
+
+# #######################
+
 # Microphone Library for Pico
 
 Capture audio from a microphone on your [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) or any [RP2040](https://www.raspberrypi.org/products/rp2040/) based board. 🎤
